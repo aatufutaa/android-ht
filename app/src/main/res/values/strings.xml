@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Muistiinpanot</string>
+    <string name="uusi_sivu_teksti">Uusi muistiinpano sivu</string>
+    <string name="muistiinpanot_otsikko">Muistiinpanot</string>
+    <string name="uusi_muistiinpano_nappi">Uusi</string>
+    <string name="poista_muistiinpano_nappi">Poista</string>
+    <string name="takaisin_muistiinpano_nappi">Takaisin</string>
+    <string name="tallenna_muistiinpano_nappi">Tallenna</string>
+</resources>

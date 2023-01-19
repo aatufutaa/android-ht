@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="uusi_sivu_teksti">New note page</string>
+    <string name="uusi_muistiinpano_nappi">New</string>
+    <string name="muistiinpanot_otsikko">Notes</string>
+    <string name="poista_muistiinpano_nappi">Delete</string>
+    <string name="takaisin_muistiinpano_nappi">Back</string>
+    <string name="tallenna_muistiinpano_nappi">Save</string>
+</resources>
